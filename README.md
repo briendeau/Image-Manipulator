@@ -1,4 +1,4 @@
-A fun image manipulation project using various advanced javascript dom manipulation techniques and css tricks to play with peices of artwork.
+An image manipulation website built using various advanced javascript dom manipulation techniques and css tricks to play with peices of artwork.
 used HTML / CSS and Javascript only. When images are selected from the thumbnails the image in the center is changed and can be manipulated using the range sliders. A reset button allows you to start over.
 
 Examples,
